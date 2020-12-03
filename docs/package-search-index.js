@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"Atributosinterfaz"},{"l":"claseAbstracta"},{"l":"herencia"},{"l":"interfaz"}];updateSearchResults();
